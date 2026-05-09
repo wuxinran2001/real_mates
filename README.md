@@ -35,7 +35,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://gitee.com/wuxinran2001/kawaii.git
+git clone https://github.com/wuxinran2001/real_mates.git
 
 # 安装Python依赖
 pip install requests edge-tts
